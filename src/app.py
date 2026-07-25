@@ -22,17 +22,14 @@ def load_csv_data(
 # display data
 def display_dataframe_row_and_columns(df: pd.DataFrame) -> None:
     print(f"row:{df.shape[0]}, column:{df.shape[1]}")
-    return
 
 
 def display_dataframe_info(df: pd.DataFrame) -> None:
     df.info()
-    return
 
 
 def display_dataframe_startdate_and_enddate(df: pd.DataFrame) -> None:
     print(f"start_date:{df['dteday'].min()}, end_date:{df['dteday'].max()}")
-    return
 
 
 # Average for each time period within the specified period
