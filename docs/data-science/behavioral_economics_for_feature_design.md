@@ -6,6 +6,7 @@
 
 - [ゲーム理論を活用したコレクター製品の価格予測モデル設計](./game_theory_for_collector_price_prediction.md)
 - [仮説を生むための理論の選定と優先順位](./hypothesis_generating_frameworks.md)
+- [IP・キャラクター人気を価格予測に使う](./ip_character_popularity_for_price_prediction.md)（§5.4.3 群集行動・§5.4.5 希少性・§5.4.7 代表性ヒューリスティックと重複／対立する論点あり）
 
 > **更新履歴**
 >

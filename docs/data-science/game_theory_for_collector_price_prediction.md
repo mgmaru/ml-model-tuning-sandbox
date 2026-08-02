@@ -4,6 +4,7 @@
 
 - [行動経済学は特徴量設計に使えるか](./behavioral_economics_for_feature_design.md)
 - [仮説を生むための理論の選定と優先順位](./hypothesis_generating_frameworks.md)
+- [IP・キャラクター人気を価格予測に使う](./ip_character_popularity_for_price_prediction.md)
 
 > **更新履歴**
 >
